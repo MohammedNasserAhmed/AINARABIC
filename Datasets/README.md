@@ -36,5 +36,5 @@ This repository aims to collect and organize various Arabic corpora available on
 If you know of any other Arabic corpora that should be included in this collection, please feel free to contribute by submitting a pull request or opening an issue. Your contributions are greatly appreciated!
 
 ## License
-This repository and its contents are licensed under the [MIT License](LICENSE).
+This repository and its contents are licensed under the [GNU General Public License](LICENSE).
 
