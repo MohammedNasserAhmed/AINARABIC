@@ -21,9 +21,9 @@ This repository aims to collect and organize various Arabic corpora available on
 |------|-------------|------|
 | Arabic Gigaword | A comprehensive archive of newswire text data in Modern Standard Arabic (MSA) | [Link](https://catalog.ldc.upenn.edu/LDC2011T11) |
 | OSIAN | Open-Source International Arabic News Corpus | [Link](https://aclanthology.org/W19-4619/) |
-| AWDD | Arabic Wikimedia Database Dump | [Link](https://archive.org/details/arwiki-20190201) |
+| AWDd | Arabic Wikimedia Database Dump | [Link](https://archive.org/details/arwiki-20190201) |
 | AQMAR | Arabic Wikipedia Corpus | [Link](https://www.cs.cmu.edu/~ark/AQMAR/) |
-| 1.5 Billion Arabic Words | - | [Link]([https://www.cs.cmu.edu/~ark/AQMAR/](https://www.semanticscholar.org/paper/1.5-billion-words-Arabic-Corpus-El-Khair/f3eeef4afb81223df96575adadf808fe7fe440b4)) |
+| 1.5 Billion Arabic Words | - | [Link]([https://www.cs.cmu.edu/~ark/AQMAR/](https://www.semanticscholar.org/paper/1.5-billion-words-Arabic-Corpus-El-Khair/f3eeef4afb81223df96575adadf808fe7fe440b4) |
 
 ### Specialized Corpora
 
