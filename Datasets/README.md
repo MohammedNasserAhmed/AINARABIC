@@ -20,9 +20,10 @@ This repository aims to collect and organize various Arabic corpora available on
 | Name | Description | Link |
 |------|-------------|------|
 | Arabic Gigaword | A comprehensive archive of newswire text data in Modern Standard Arabic (MSA) | [Link](https://catalog.ldc.upenn.edu/LDC2011T11) |
-| OSIAN | Open-Source International Arabic News Corpus | [Link](https://github.com/aub-mind/arabert/tree/master/datasets/OSIAN) |
-| CLARA | Corpus of Literary Arabic | [Link](https://www.clara-corpus.org/) |
+| OSIAN | Open-Source International Arabic News Corpus | [Link](https://aclanthology.org/W19-4619/) |
+| AWDD | Arabic Wikimedia Database Dump | [Link](https://archive.org/details/arwiki-20190201) |
 | AQMAR | Arabic Wikipedia Corpus | [Link](https://www.cs.cmu.edu/~ark/AQMAR/) |
+| 1.5 Billion Arabic Words | - | [Link]([https://www.cs.cmu.edu/~ark/AQMAR/](https://www.semanticscholar.org/paper/1.5-billion-words-Arabic-Corpus-El-Khair/f3eeef4afb81223df96575adadf808fe7fe440b4)) |
 
 ### Specialized Corpora
 
@@ -33,26 +34,10 @@ This repository aims to collect and organize various Arabic corpora available on
 | MADAR | Multi-Arabic Dialect Applications and Resources | [Link](https://aclanthology.org/W18-3902/) |
 | ARAPTB | Arabic Parsing Treebank | [Link](https://catalog.ldc.upenn.edu/LDC2010T13) |
 
+
 ## Contributing
 If you know of any other Arabic corpora that should be included in this collection, please feel free to contribute by submitting a pull request or opening an issue. Your contributions are greatly appreciated!
 
 ## License
 This repository and its contents are licensed under the [MIT License](LICENSE).
-
-## Table of Contents
-
-* [General Corpora](#general-corpora)
-* [News Corpora](#news-corpora)
-* [Social Media Corpora](#social-media-corpora)
-* [Domain-Specific Corpora](#domain-specific-corpora)
-    * [Legal]([#legal-corpora])
-* [Contribute](#contribute)
-
-## General Corpora
-
-This section includes general Arabic corpora suitable for various NLP tasks.
-
-* [Arabic Wikimedia Database Dump](https://archive.org/details/arwiki-20190201) (Wikimedia database dump of the Arabic Wikipedia on February 01, 2019)
-* [1.5 Billion Arabic Words](https://www.semanticscholar.org/paper/1.5-billion-words-Arabic-Corpus-El-Khair/f3eeef4afb81223df96575adadf808fe7fe440b4) (1.5 billion words Arabic Corpus)
-* [Open Source International Arabic News Corpus](https://aclanthology.org/W19-4619/) (OSIAN: Open Source International Arabic News Corpus - Preparation and Integration into the CLARIN-infrastructure)
 
