@@ -2,6 +2,43 @@
 
 This is a curated list of Arabic corpora resources for various NLP tasks. Feel free to contribute by submitting pull requests with additional corpora.
 
+
+## Introduction
+This repository aims to collect and organize various Arabic corpora available online. The goal is to provide a centralized resource for researchers, developers, and enthusiasts working on Arabic natural language processing (NLP) projects.
+
+## Table of Contents
+- [Corpora](#corpora)
+  - [General Corpora](#general-corpora)
+  - [Specialized Corpora](#specialized-corpora)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Corpora
+
+### General Corpora
+
+| Name | Description | Link |
+|------|-------------|------|
+| Arabic Gigaword | A comprehensive archive of newswire text data in Modern Standard Arabic (MSA) | [Link](https://catalog.ldc.upenn.edu/LDC2011T11) |
+| OSIAN | Open-Source International Arabic News Corpus | [Link](https://github.com/aub-mind/arabert/tree/master/datasets/OSIAN) |
+| CLARA | Corpus of Literary Arabic | [Link](https://www.clara-corpus.org/) |
+| AQMAR | Arabic Wikipedia Corpus | [Link](https://www.cs.cmu.edu/~ark/AQMAR/) |
+
+### Specialized Corpora
+
+| Name | Description | Link |
+|------|-------------|------|
+| QALB | Qatar Arabic Language Bank | [Link](https://aclanthology.org/W14-1205/) |
+| LADL | Linguistic Atlas of the Digital Levant | [Link](https://www.lancaster.ac.uk/fass/projects/ladl/) |
+| MADAR | Multi-Arabic Dialect Applications and Resources | [Link](https://aclanthology.org/W18-3902/) |
+| ARAPTB | Arabic Parsing Treebank | [Link](https://catalog.ldc.upenn.edu/LDC2010T13) |
+
+## Contributing
+If you know of any other Arabic corpora that should be included in this collection, please feel free to contribute by submitting a pull request or opening an issue. Your contributions are greatly appreciated!
+
+## License
+This repository and its contents are licensed under the [MIT License](LICENSE).
+
 ## Table of Contents
 
 * [General Corpora](#general-corpora)
