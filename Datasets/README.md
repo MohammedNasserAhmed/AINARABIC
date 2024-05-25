@@ -16,7 +16,9 @@ This is a curated list of Arabic corpora resources for various NLP tasks. Feel f
 
 This section includes general Arabic corpora suitable for various NLP tasks.
 
-* [Arabic Wikipedia Dump](https://dumps.wikimedia.org/arwiki/) (Large collection of Arabic Wikipedia articles)
+* [Arabic Wikimedia Database Dump](https://archive.org/details/arwiki-20190201) (Wikimedia database dump of the Arabic Wikipedia on February 01, 2019)
+* [1.5 Billion Arabic Words](https://www.semanticscholar.org/paper/1.5-billion-words-Arabic-Corpus-El-Khair/f3eeef4afb81223df96575adadf808fe7fe440b4)(1.5 billion words Arabic Corpus)
+* [Open Source International Arabic News Corpus](https://aclanthology.org/W19-4619/)(OSIAN: Open Source International Arabic News Corpus - Preparation and Integration into the CLARIN-infrastructure)
 * [Arabic Books Corpus (ABC)](https://github.com/qcri/ABC) (Arabic text extracted from scanned Arabic books)
 * [OSCAR Arabic Corpus](https://dumps.wikimedia.org/oscar/2022-06/ar.tar.gz) (Large corpus of Arabic text from Common Crawl)
 
