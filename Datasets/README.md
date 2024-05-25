@@ -29,9 +29,6 @@ This repository aims to collect and organize various Arabic corpora available on
 
 | Name | Description | Link |
 |------|-------------|------|
-| QALB | Qatar Arabic Language Bank | [Link](https://aclanthology.org/W14-1205/) |
-| LADL | Linguistic Atlas of the Digital Levant | [Link](https://www.lancaster.ac.uk/fass/projects/ladl/) |
-| MADAR | Multi-Arabic Dialect Applications and Resources | [Link](https://aclanthology.org/W18-3902/) |
 | ARAPTB | Arabic Parsing Treebank | [Link](https://catalog.ldc.upenn.edu/LDC2010T13) |
 
 
